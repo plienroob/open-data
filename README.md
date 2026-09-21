@@ -139,6 +139,14 @@ checkable facts about this service. Everything here is **CC BY 4.0**: quote it f
 
 ตราสินค้า ชื่อ โลโก้ และภาพผลงานบนเว็บไซต์ **ไม่ได้**อยู่ภายใต้สัญญานี้
 
+© 2026 Plien Roob (เปลี่ยนรูป) · https://plienroob.com
+
+> ไฟล์ [`LICENSE`](LICENSE) คือ**ตัวบทมาตรฐานของ CC BY 4.0** ไม่ได้ย่อหรือเรียบเรียงใหม่
+> เพื่อให้เครื่องอ่านออกและขึ้นป้ายสัญญาอนุญาตบนหน้าที่เก็บ · ส่วนที่อ่านง่ายคือหัวข้อนี้
+>
+> The [`LICENSE`](LICENSE) file is the verbatim CC BY 4.0 legal code, so automated
+> tools can detect it. This section is the human-readable summary.
+
 ---
 
 *ปรับปรุงล่าสุด · Last updated: 2026-09-21*
