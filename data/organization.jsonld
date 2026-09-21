@@ -1,0 +1,67 @@
+{
+  "$comment": "🔴 ยังต้องเติม: PLACEHOLDER_OWNER/PLACEHOLDER_REPO ด้านล่าง ให้แทนด้วยที่อยู่จริงของ repo นี้ทันทีที่สร้างเสร็จ · TODO: replace PLACEHOLDER_OWNER/PLACEHOLDER_REPO with this repository's real URL.",
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://plienroob.com/#organization",
+      "name": "Plien Roob",
+      "alternateName": ["เปลี่ยนรูป", "PlienRoob", "Plien Roob (เปลี่ยนรูป)"],
+      "url": "https://plienroob.com",
+      "description": "AI product photography for Thai online shops. Upload one product photo and get a photo of a model wearing, holding or using it, without writing a prompt.",
+      "areaServed": { "@type": "Country", "name": "Thailand" },
+      "knowsLanguage": ["th", "en"],
+      "sameAs": [
+        "https://line.me/R/ti/p/@639sbxcm",
+        "https://www.facebook.com/profile.php?id=61594108766249",
+        "https://www.tiktok.com/@plienroob0",
+        "https://www.instagram.com/plienroob/"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://plienroob.com/#website",
+      "url": "https://plienroob.com",
+      "name": "Plien Roob (เปลี่ยนรูป)",
+      "inLanguage": ["th", "en"],
+      "publisher": { "@id": "https://plienroob.com/#organization" }
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://plienroob.com/#software",
+      "name": "Plien Roob (เปลี่ยนรูป)",
+      "url": "https://plienroob.com",
+      "applicationCategory": "DesignApplication",
+      "operatingSystem": "Web browser",
+      "inLanguage": ["th", "en"],
+      "publisher": { "@id": "https://plienroob.com/#organization" },
+      "featureList": [
+        "Virtual try-on — put a garment on a model from the library",
+        "Product to model — turn a flat product photo into model photography",
+        "Product Showcase — a person holding, placing or using a non-clothing product, 15 categories",
+        "Product-Sexy — sleepwear, lingerie and swimwear on a model built from choices, never a real person's photo",
+        "Ghost mannequin — show garment shape with nobody wearing it",
+        "Upscale — raise image resolution",
+        "Background removal"
+      ],
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "THB",
+        "lowPrice": "0",
+        "highPrice": "1290",
+        "offerCount": "3",
+        "url": "https://plienroob.com/pricing.md"
+      }
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://github.com/PLACEHOLDER_OWNER/PLACEHOLDER_REPO#dataset",
+      "name": "Plien Roob open data",
+      "description": "Machine-readable, checkable facts about Plien Roob: preset library sizes, tool list, credit costs, stated limits, and a bilingual FAQ. Generated from the running system.",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "inLanguage": ["th", "en"],
+      "creator": { "@id": "https://plienroob.com/#organization" },
+      "isAccessibleForFree": true
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "$comment": "ขนาดคลังภาพที่เปลี่ยนรูปเตรียมไว้ให้ลูกค้าเลือก · ตัวเลขนับจากฐานข้อมูลที่รันอยู่จริง ไม่ได้พิมพ์ด้วยมือ",
+  "source": "https://plienroob.com/llms.txt",
+  "asOf": "2026-09-20",
+  "license": "CC BY 4.0",
+  "method": {
+    "th": "นับเฉพาะรายการที่ระบบเป็นเจ้าของและยังเปิดใช้งาน (ไม่นับภาพที่ลูกค้าอัปเอง) · ตัวเลขถูกสร้างใหม่จากฐานข้อมูลวันละครั้ง จึงไม่ค้างเป็นค่าของวันที่เขียนโค้ด",
+    "en": "Counts only system-owned, still-active rows (customer uploads are excluded). Regenerated from the database once a day, so the figures do not go stale at build time."
+  },
+  "presetLibrary": {
+    "total": 1020,
+    "models": 116,
+    "faces": 210,
+    "poses": 84,
+    "scenes": 360,
+    "styling": 250
+  },
+  "content": {
+    "guides": 39,
+    "helpPages": 21,
+    "languages": ["th", "en"],
+    "note": "ทุกชิ้นมีทั้งภาษาไทยและอังกฤษ · Every guide and help page exists in both languages."
+  },
+  "casting": {
+    "th": "สัดส่วนเชื้อชาติของนางแบบถูกถ่วงไว้โดยตั้งใจ ราวครึ่งหนึ่งเป็นเอเชีย และมีเทสต์อัตโนมัติบังคับไว้ ไม่ใช่แค่ความตั้งใจ",
+    "en": "Model casting is balanced deliberately — roughly half the models are Asian — and the balance is enforced by an automated test, not by intention alone."
+  },
+  "noPromptField": {
+    "th": "ผู้ใช้เลือกจากคลังนี้เท่านั้น ไม่มีช่องพิมพ์คำสั่งอยู่ที่ไหนในผลิตภัณฑ์",
+    "en": "The user picks from this library. There is no prompt field anywhere in the product."
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "$comment": "เครื่องมือทั้งหมดของเปลี่ยนรูป · ราคาเครดิตตรงกับ https://plienroob.com/pricing.md ซึ่งสร้างจากโค้ดที่ตัดเงินลูกค้าจริง",
+  "source": "https://plienroob.com/pricing.md",
+  "asOf": "2026-09-20",
+  "license": "CC BY 4.0",
+  "note": "หนึ่งเครดิตไม่เท่ากับหนึ่งภาพ · ราคาที่แน่นอนแสดงบนหน้าจอก่อนสร้างภาพทุกครั้ง · One credit is not one image.",
+  "tools": [
+    {
+      "id": "try-on",
+      "nameTh": "ลองสวมใส่",
+      "nameEn": "Virtual try-on",
+      "creditsFrom": 2,
+      "descriptionTh": "ใส่เสื้อผ้าของร้านลงบนนางแบบที่เลือกจากคลัง",
+      "descriptionEn": "Put the shop's garment on a model chosen from the library."
+    },
+    {
+      "id": "product-to-model",
+      "nameTh": "เปลี่ยนสินค้า",
+      "nameEn": "Product to model",
+      "creditsFrom": 2,
+      "descriptionTh": "เปลี่ยนภาพสินค้าวางพื้นให้กลายเป็นภาพนางแบบ",
+      "descriptionEn": "Turn a flat product photo into model photography."
+    },
+    {
+      "id": "product-present",
+      "nameTh": "พรีเซนต์สินค้า",
+      "nameEn": "Product Showcase",
+      "creditsFrom": 3,
+      "tier": "2K",
+      "descriptionTh": "คนถือ วาง หรือใช้สินค้าที่ไม่ใช่เสื้อผ้า 15 หมวด",
+      "descriptionEn": "A person holding, placing or using a non-clothing product, in 15 categories.",
+      "categories": [
+        "น้ำหอม · perfume",
+        "เซรั่ม · serum",
+        "หลอดครีม · cream tube",
+        "กระปุกครีม · cream jar",
+        "ลิปสติก · lipstick",
+        "อาหารจานเสิร์ฟ · plated food",
+        "แก้วน้ำ · cup",
+        "ขวดน้ำ · water bottle",
+        "หนังสือและสมุด · book and notebook",
+        "ดัมเบลและเคทเทิลเบล · dumbbell and kettlebell",
+        "เสื่อโยคะ · yoga mat",
+        "คันเบ็ด · fishing rod",
+        "รถยนต์ · car",
+        "มอเตอร์ไซค์ · motorcycle",
+        "จักรยาน · bicycle"
+      ]
+    },
+    {
+      "id": "product-sexy",
+      "nameTh": "Product-Sexy",
+      "nameEn": "Product-Sexy",
+      "credits": 3,
+      "tier": "2K only",
+      "descriptionTh": "ชุดนอน ชุดชั้นใน ชุดว่ายน้ำ ทั้งหญิงและชาย · นางแบบสร้างจากตัวเลือกที่กด ไม่ใช่จากภาพคนจริง · ผลลัพธ์ทุกใบถูกตรวจก่อนส่งมอบ ถ้าไม่ผ่านคืนเครดิต",
+      "descriptionEn": "Sleepwear, lingerie and swimwear, women's and men's. The model is built from chosen options, never from a real person's photo. Every result is checked before delivery; a failed check refunds the credits."
+    },
+    {
+      "id": "ghost-mannequin",
+      "nameTh": "หุ่นล่องหน",
+      "nameEn": "Ghost mannequin",
+      "creditsFrom": 2,
+      "descriptionTh": "แสดงทรงเสื้อโดยไม่มีคนใส่",
+      "descriptionEn": "Show the garment's shape with nobody wearing it."
+    },
+    {
+      "id": "upscale",
+      "nameTh": "ขยายภาพ",
+      "nameEn": "Upscale",
+      "creditsFrom": 1,
+      "descriptionTh": "เพิ่มความละเอียดของภาพ",
+      "descriptionEn": "Raise image resolution."
+    },
+    {
+      "id": "background-removal",
+      "nameTh": "ลบพื้นหลัง",
+      "nameEn": "Background removal",
+      "creditsFrom": 1,
+      "descriptionTh": "ลบพื้นหลังออกจากภาพสินค้า",
+      "descriptionEn": "Remove the background from a product photo."
+    }
+  ]
+}
