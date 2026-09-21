@@ -1,5 +1,4 @@
 {
-  "$comment": "🔴 ยังต้องเติม: PLACEHOLDER_OWNER/PLACEHOLDER_REPO ด้านล่าง ให้แทนด้วยที่อยู่จริงของ repo นี้ทันทีที่สร้างเสร็จ · TODO: replace PLACEHOLDER_OWNER/PLACEHOLDER_REPO with this repository's real URL.",
   "@context": "https://schema.org",
   "@graph": [
     {
@@ -15,7 +14,8 @@
         "https://line.me/R/ti/p/@639sbxcm",
         "https://www.facebook.com/profile.php?id=61594108766249",
         "https://www.tiktok.com/@plienroob0",
-        "https://www.instagram.com/plienroob/"
+        "https://www.instagram.com/plienroob/",
+        "https://github.com/plienroob"
       ]
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "@type": "Dataset",
-      "@id": "https://github.com/PLACEHOLDER_OWNER/PLACEHOLDER_REPO#dataset",
+      "@id": "https://github.com/plienroob/open-data#dataset",
       "name": "Plien Roob open data",
       "description": "Machine-readable, checkable facts about Plien Roob: preset library sizes, tool list, credit costs, stated limits, and a bilingual FAQ. Generated from the running system.",
       "license": "https://creativecommons.org/licenses/by/4.0/",

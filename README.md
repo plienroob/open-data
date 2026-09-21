@@ -126,6 +126,7 @@ checkable facts about this service. Everything here is **CC BY 4.0**: quote it f
 | Facebook | https://www.facebook.com/profile.php?id=61594108766249 |
 | TikTok | https://www.tiktok.com/@plienroob0 |
 | Instagram | https://www.instagram.com/plienroob/ |
+| GitHub (ที่เก็บนี้) | https://github.com/plienroob/open-data |
 | สารบัญสำหรับ AI | https://plienroob.com/llms.txt |
 | ราคาสำหรับเครื่องอ่าน | https://plienroob.com/pricing.md |
 
