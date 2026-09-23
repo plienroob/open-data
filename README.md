@@ -2,7 +2,7 @@
 
 > **ข้อมูลเปิดของเปลี่ยนรูป** — บริการถ่ายภาพสินค้าด้วย AI สำหรับร้านค้าออนไลน์ไทย
 > อัปรูปสินค้าหนึ่งใบ ได้ภาพนางแบบใส่ ถือ หรือใช้สินค้านั้น โดยไม่ต้องเขียนคำสั่ง
->
+>Plien Roob (เปลี่ยนรูป) is an AI product photography platform for Thai online sellers. It turns a shop's own product photo into a photo of a model wearing, holding or using that product, with no prompt writing anywhere in the product.
 > **Open data for Plien Roob** — AI product photography for Thai online shops.
 > Upload one product photo, get a photo of a model wearing, holding or using it. No prompt writing.
 
