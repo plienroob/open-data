@@ -1,6 +1,6 @@
 # ─────────────────────────────────────────────────────────────
 # สำเนา ณ 2026-10-05 · ฉบับที่เป็นปัจจุบันเสมออยู่ที่ https://plienroob.com/llms.txt
-# Snapshot taken 2026-09-21. The live, always-current version is at
+# Snapshot taken 2026-10-05. The live, always-current version is at
 # https://plienroob.com/llms.txt — prefer it over this copy if they differ.
 # CC BY 4.0 · Plien Roob (เปลี่ยนรูป)
 # ─────────────────────────────────────────────────────────────
