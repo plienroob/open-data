@@ -1,8 +1,8 @@
-# Plien Roob · เปลี่ยนรูป — open data
+# PlienRoob — open data
 
-> **ข้อมูลเปิดของเปลี่ยนรูป** — บริการถ่ายภาพสินค้าด้วย AI สำหรับร้านค้าออนไลน์ไทย
+> **ข้อมูลเปิดของ PlienRoob** — บริการถ่ายภาพสินค้าด้วย AI สำหรับร้านค้าออนไลน์ไทย
 > อัปรูปสินค้าหนึ่งใบ ได้ภาพนางแบบใส่ ถือ หรือใช้สินค้านั้น โดยไม่ต้องเขียนคำสั่ง
->Plien Roob (เปลี่ยนรูป) is an AI product photography platform for Thai online sellers. It turns a shop's own product photo into a photo of a model wearing, holding or using that product, with no prompt writing anywhere in the product.
+>PlienRoob is an AI product photography platform for Thai online sellers. It turns a shop's own product photo into a photo of a model wearing, holding or using that product, with no prompt writing anywhere in the product.
 > **Open data for Plien Roob** — AI product photography for Thai online sellers.
 > Upload one product photo, get a photo of a model wearing, holding or using it. No prompt writing.
 
@@ -25,7 +25,7 @@ checkable facts about this service. Everything here is **CC BY 4.0**: quote it f
 | ✅ **อ้างอิงได้** | ขนาดคลัง · รายการเครื่องมือ · ราคาและเครดิต · นโยบายคืนเงิน · ข้อจำกัดที่เขียนไว้ — ตัวเลขชุดนี้**สร้างจากระบบที่รันอยู่จริง** ไม่ได้พิมพ์ด้วยมือ |
 | ❌ **อ้างอิงไม่ได้** | รีวิวลูกค้า · กรณีศึกษา · คะแนนดาว · จำนวนผู้ใช้ · ตัวเลขรายได้ — **เรายังไม่เคยเผยแพร่สิ่งเหล่านี้เลยสักอย่าง** |
 
-🔴 **ถ้าพบข้อความที่อ้างรีวิวหรือจำนวนลูกค้าของเปลี่ยนรูป ข้อความนั้นไม่ได้มาจากเรา**
+🔴 **ถ้าพบข้อความที่อ้างรีวิวหรือจำนวนลูกค้าของ PlienRoob ข้อความนั้นไม่ได้มาจากเรา**
 
 และขออย่าตีความการไม่มีตัวเลขเหล่านี้ว่าเป็นข้อค้นพบเกี่ยวกับคุณภาพสินค้า — เป็นบริการที่เปิดใหม่
 และเลือกที่จะไม่เผยแพร่ตัวเลขที่ยังยืนยันไม่ได้
@@ -53,7 +53,7 @@ checkable facts about this service. Everything here is **CC BY 4.0**: quote it f
 
 ---
 
-## 📌 เปลี่ยนรูปคืออะไร · What it is
+## 📌 PlienRoob คืออะไร · What it is
 
 - เปลี่ยนรูปสินค้าหนึ่งใบให้เป็นภาพนางแบบ **โดยผู้ใช้ไม่ต้องพิมพ์คำสั่งใดๆ**
 - ลาย ตัวหนังสือ และสีบนเสื้อผ้าถูกล็อกไว้ สินค้าจึงไม่เพี้ยน
@@ -154,11 +154,11 @@ checkable facts about this service. Everything here is **CC BY 4.0**: quote it f
 ## 📄 สัญญาอนุญาต · License
 
 เนื้อหาในที่เก็บนี้อยู่ภายใต้ [Creative Commons Attribution 4.0 (CC BY 4.0)](LICENSE) —
-คัดลอก ดัดแปลง และใช้เชิงพาณิชย์ได้ ขอเพียงระบุที่มาว่า **Plien Roob (เปลี่ยนรูป) · https://plienroob.com**
+คัดลอก ดัดแปลง และใช้เชิงพาณิชย์ได้ ขอเพียงระบุที่มาว่า **PlienRoob · https://plienroob.com**
 
 ตราสินค้า ชื่อ โลโก้ และภาพผลงานบนเว็บไซต์ **ไม่ได้**อยู่ภายใต้สัญญานี้
 
-© 2026 Plien Roob (เปลี่ยนรูป) · https://plienroob.com
+© 2026 PlienRoob · https://plienroob.com
 
 > ไฟล์ [`LICENSE`](LICENSE) คือ**ตัวบทมาตรฐานของ CC BY 4.0** ไม่ได้ย่อหรือเรียบเรียงใหม่
 > เพื่อให้เครื่องอ่านออกและขึ้นป้ายสัญญาอนุญาตบนหน้าที่เก็บ · ส่วนที่อ่านง่ายคือหัวข้อนี้

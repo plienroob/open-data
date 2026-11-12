@@ -1,7 +1,7 @@
 # ศัพท์ถ่ายภาพสินค้าด้วย AI · Glossary
 
 คำที่ใช้จริงในงานถ่ายภาพสินค้าด้วย AI สำหรับร้านค้าออนไลน์ · ไทย–อังกฤษ
-CC BY 4.0 — ที่มา **Plien Roob (เปลี่ยนรูป) · https://plienroob.com**
+CC BY 4.0 — ที่มา **PlienRoob · https://plienroob.com**
 
 ---
 

@@ -22,14 +22,14 @@
       "@type": "WebSite",
       "@id": "https://plienroob.com/#website",
       "url": "https://plienroob.com",
-      "name": "Plien Roob (เปลี่ยนรูป)",
+      "name": "PlienRoob",
       "inLanguage": ["th", "en"],
       "publisher": { "@id": "https://plienroob.com/#organization" }
     },
     {
       "@type": "SoftwareApplication",
       "@id": "https://plienroob.com/#software",
-      "name": "Plien Roob (เปลี่ยนรูป)",
+      "name": "PlienRoob",
       "url": "https://plienroob.com",
       "applicationCategory": "DesignApplication",
       "operatingSystem": "Web browser",

@@ -85,4 +85,4 @@
 
 ---
 
-*ปรับปรุงล่าสุด · Last updated: 2026-09-21 · CC BY 4.0 · [Plien Roob (เปลี่ยนรูป)](https://plienroob.com)*
+*ปรับปรุงล่าสุด · Last updated: 2026-09-21 · CC BY 4.0 · [PlienRoob](https://plienroob.com)*

@@ -1,10 +1,10 @@
 <!--
-  สำเนา ณ 2026-09-21 · ฉบับที่เป็นปัจจุบันเสมออยู่ที่ https://plienroob.com/pricing.md
+  สำเนา ณ 2026-11-12 · ฉบับที่เป็นปัจจุบันเสมออยู่ที่ https://plienroob.com/pricing.md
   ไฟล์ต้นฉบับสร้างจากโค้ดตัวเดียวกับที่ตัดเงินลูกค้าจริง
 
-  Snapshot taken 2026-09-21. The live version at https://plienroob.com/pricing.md is
+  Snapshot taken 2026-11-12. The live version at https://plienroob.com/pricing.md is
   generated from the same code that charges the customer — prefer it if they differ.
-  CC BY 4.0 · Plien Roob (เปลี่ยนรูป)
+  CC BY 4.0 · PlienRoob
 -->
 
 # Pricing — Plien Roob (เปลี่ยนรูป)
@@ -38,14 +38,15 @@ The English site charges the same plans in US dollars.
 - Cost per model photo: ฿5.56 monthly, ฿4.18 on the yearly plan
 - Watermark: no
 
-## Credit top-ups
+## One-time credit packs
 
-Available to shops that already have a monthly plan. One-time payment, no subscription.
-Paid by PromptPay QR.
+Any shop can buy them — no monthly plan needed. One-time payment, nothing charged automatically.
+On the Thai site: PromptPay QR or card, in baht. On the English site: card only, $11 / $21 / $42.
+Credits never expire.
 
-- Small: ฿350 — 100 credits on Basic, 105 credits on Premium
-- Medium: ฿700 — 200 credits on Basic, 250 credits on Premium
-- Large: ฿1,400 — 400 credits on Basic, 530 credits on Premium
+- Small: ฿350 — 100 credits on Free or Basic, 105 credits on Premium · unlocks Basic features until those credits are used
+- Medium: ฿700 — 200 credits on Free or Basic, 250 credits on Premium · unlocks Basic features until those credits are used
+- Large: ฿1,400 — 400 credits on Free or Basic, 530 credits on Premium · unlocks Premium features until those credits are used
 
 ## What a credit buys
 
@@ -61,13 +62,15 @@ Credits are spent per generated image, and each tool costs a different amount.
 - Product-Sexy: 3 credits per image (2K only)
 
 Some tools offer a higher-quality tier that costs more credits per image.
+Picking from the built-in library (model, scene, pose, wardrobe) adds a flat 1 credit per image
+on the Free and Basic plans however many items you pick, and nothing on the Premium plan.
 The exact cost is shown on screen before every generation.
 
 ## Payment methods
 
 - Monthly and yearly plans: credit or debit card only. PromptPay cannot charge on a
   recurring schedule, which is a limitation of PromptPay itself, not a policy choice.
-- Credit top-ups: PromptPay QR.
+- One-time credit packs: PromptPay QR or card on the Thai site, card on the English site — charged once.
 
 ## Rules that affect cost
 
